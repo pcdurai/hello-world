@@ -1,2 +1,2 @@
 # hello-world
-read me
+Hello world project.
